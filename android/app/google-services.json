@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "255685379577",
+    "project_id": "hotel-dashboard-assignment",
+    "storage_bucket": "hotel-dashboard-assignment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255685379577:android:4821a567e39f5a49bf2928",
+        "android_client_info": {
+          "package_name": "com.example.hoteldashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255685379577-9910vibmgoljpf0di0k0ecek1m3o5e12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Bc7y7nHo9rddJ_QVIWYAvwGV_JTHYQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255685379577-9910vibmgoljpf0di0k0ecek1m3o5e12.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "255685379577-p8nk1c2ptd3m7j6qt5rd0pkpqsd8cd14.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hoteldashboard"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255685379577:android:b969dd5685942286bf2928",
+        "android_client_info": {
+          "package_name": "com.example.hotelsearchsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255685379577-9910vibmgoljpf0di0k0ecek1m3o5e12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Bc7y7nHo9rddJ_QVIWYAvwGV_JTHYQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255685379577-9910vibmgoljpf0di0k0ecek1m3o5e12.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "255685379577-p8nk1c2ptd3m7j6qt5rd0pkpqsd8cd14.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hoteldashboard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
