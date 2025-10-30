@@ -263,9 +263,7 @@ dependencies:
 - [ ] Offline caching
 - [ ] Multi-language support
 
-## Screenshots
 
-_Add screenshots of your app here_
 
 ## Contributing
 
