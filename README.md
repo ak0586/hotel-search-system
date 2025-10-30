@@ -38,7 +38,7 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/flutter_hotel_app.git
+git clone https://github.com/ak0586/hotel-search-system.git
 cd flutter_hotel_app
 ```
 
